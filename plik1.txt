@@ -4,3 +4,4 @@ szesc
 siedem
 osiem
 dziesiec
+jedenascie
