@@ -5,6 +5,5 @@ siedem
 osiem
 dziewiec
 dziesiec
-jedenascie dwanascie
 trzynascie czternascie
 pietnascie
