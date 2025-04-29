@@ -6,3 +6,4 @@ osiem
 dziewiec
 dziesiec
 trzynascie czternascie
+pietnascie
