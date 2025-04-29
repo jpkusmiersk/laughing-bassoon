@@ -3,3 +3,4 @@ cztery piec
 szesc
 siedem
 osiem
+dziesiec
